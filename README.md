@@ -10,7 +10,7 @@ Before you begin, make sure you have the following installed:
 - Docker
 - Git (optional, for cloning the repository)
 
-## Setup
+##Setup
 
 1. Clone this repository (if you haven't already):
 
